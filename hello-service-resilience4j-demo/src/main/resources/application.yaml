@@ -1,0 +1,14 @@
+spring:
+  application:
+    name:
+      hello-service
+#  datasource:
+#    username: root
+#    password: pass@word1
+
+server:
+  port:
+    8082
+        
+
+    
